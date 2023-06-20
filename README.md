@@ -1,4 +1,4 @@
-use liquibase to create database migration
+test your api using integration testing by unit test
 
 ### 1.  create database
 docker run -d --name psql \
